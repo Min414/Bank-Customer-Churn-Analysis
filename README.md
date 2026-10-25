@@ -5,6 +5,7 @@ Which customers are likely to leave, and why?
 
 ## Data
 Kaggle "Bank Customer Churn Prediction" dataset: 10,000 customers, no missing values. Target: `Exited` (1 = left). Overall churn rate: 20.4%.
+Source: [Bank Customer Churn Prediction (Kaggle)](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
 
 ## Approach
 1. Dropped ID columns (`RowNumber`, `CustomerId`, `Surname`).
