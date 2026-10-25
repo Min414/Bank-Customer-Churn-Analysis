@@ -19,19 +19,19 @@ Kaggle "Bank Customer Churn Prediction" dataset: 10,000 customers, no missing va
 - **Women** churn more than men (25% vs 16%).
 - **Inactive members** churn more (27% vs 14%).
 
-![Churn rate by geography, gender and activity](churn_by_group.png)
+![Churn rate by geography, gender and activity](charts/churn_by_group.png)
 
 - **Number of products** is non-linear: 2 products is safest (8% churn), 1 product is 28%, and 3-4 products almost all leave (83% and 100%).
 
-![Churn rate by number of products](churn_by_products.png)
+![Churn rate by number of products](charts/churn_by_products.png)
 
 - **Churners are older** (average 45 vs 37).
 
-![Age distribution of churned vs retained customers](age_by_churn.png)
+![Age distribution of churned vs retained customers](charts/age_by_churn.png)
 
 - **Balance:** churners looked richer on average, but this was misleading. Among customers with a balance, churners and stayers hold almost the same amount. The real signal is having a balance at all.
 
-![Churn rate by balance](churn_by_balance.png)
+![Churn rate by balance](charts/churn_by_balance.png)
 
 ## Model results (churn class)
 | Model | Precision | Recall | F1 |
