@@ -1,7 +1,7 @@
 # Bank Customer Churn Prediction
 
 ## Business question
-A bank's retention team wants to know: **which customers are likely to leave, and why?**
+Which customers are likely to leave, and why?
 
 ## Data
 Kaggle "Bank Customer Churn Prediction" dataset: 10,000 customers, no missing values. Target: `Exited` (1 = left). Overall churn rate: **20.4%**.
